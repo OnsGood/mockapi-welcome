@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="digitball.svg"
+   inkscape:export-filename="digitball3.png"
+   inkscape:export-xdpi="23.627907"
+   inkscape:export-ydpi="23.627907"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0507202"
+     inkscape:cx="342.14627"
+     inkscape:cy="353.09115"
+     inkscape:window-width="1864"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch13">
+      <stop
+         style="stop-color:#deabab;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffd0d0;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-1"
+       cx="81.293579"
+       cy="70.678101"
+       r="43" />
+    <circle
+       style="display:none;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="path1-2-6"
+       cx="81.055496"
+       cy="70.765343"
+       r="42" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="81.194244"
+       cy="70.866898"
+       r="37" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="path1-2"
+       cx="81.337219"
+       cy="70.764626"
+       r="33" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:50.8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="65.974594"
+       y="89.393044"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-size:50.8px;fill:#000000;stroke-width:0.265"
+         x="65.974594"
+         y="89.393044">3</tspan></text>
+  </g>
+</svg>
